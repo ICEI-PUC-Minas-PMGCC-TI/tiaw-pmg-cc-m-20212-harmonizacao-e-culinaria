@@ -1,8 +1,6 @@
 # Gerenciamento de Projeto
 
-> Descreva aqui a metodologia de trabalho do grupo para atacar o
-> problema.
-
+> Focamos em resolver o problema por meio da criação de uma aplicação web abrangente que engloba tanto culinária quanto harmozinação de sabores e bebidas
 ## Divisão de Papéis
 
 > Apresente a divisão de papéis entre os membros do grupo.
