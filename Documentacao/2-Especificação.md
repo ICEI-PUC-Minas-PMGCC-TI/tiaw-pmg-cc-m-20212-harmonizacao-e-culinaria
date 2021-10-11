@@ -26,9 +26,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| PESQUISA DE RECEITAS | ALTA | 
+|RF-002| ENSINO DE TÉCNICAS CULINÁRIAS  | MÉDIA |
+|RF-003| CLASSIFICAÇÃO DE TEMPEROS | MÉDIA | 
+|RF-004| ATRELAR BEBIDAS TEMPEROS E SABORES PARA HARMONIZAR MELHOR   | ALTA |
+|RF-005| PESQUISAR POR BEBIDAS | ALTA | 
+|RF-006| COMPARTILHAR RECEITAS E POSTS  | BAIXA |
 
 ### Requisitos não Funcionais
 
