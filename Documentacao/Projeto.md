@@ -5,13 +5,21 @@ Trabalho Interdisciplinar - Aplicacões Web
 
 `CURSO`
 
+Ciência da Computação - Puc Minas
+
 `SEMESTRE`
+
+1° semestre
 
 ## Participantes
 
 Os membros do grupo são: 
-- Fulano da Silva
-- Ciclano Albuquerque
+- Matheus Marinho Gonçalves Vieira
+- Felipe Erasmo Cabral Neto
+- Priscila Silva Soares
+- Gabriel Lisa Visconti Silva
+- Pedro Augusto Gomes Ferreira de Albuquerque
+- Lauro Mendes Cunha
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 
