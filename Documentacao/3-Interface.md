@@ -28,8 +28,15 @@
 ![Wireframe Aba de comidas](images/imagem_2021-10-11_072030.png)
 ![Wireframe Aba tipos de carnes](images/imagem_2021-10-11_072042.png)
 ![Wireframe Aba carnes](images/imagem_2021-10-11_072053.png)
-![Wireframe Pagina Incial](images/wireframe-example.png)
-![Wireframe Pagina Incial](images/wireframe-example.png)
+![Wireframe Aba Bebidas](images/imagem_2021-10-11_072104.png)
+![Wireframe Aba opções de bebidas](images/imagem_2021-10-11_072115.png)
+![Wireframe Aba bebida específica](images/imagem_2021-10-11_072125.png)
+![Wireframe Aba tipos de receita](images/imagem_2021-10-11_072138.png)
+![Wireframe Aba receitas em geral](images/imagem_2021-10-11_072146.png)
+![Wireframe Aba receitas](images/imagem_2021-10-11_072158.png)
+![Wireframe Aba receita específica](images/imagem_2021-10-11_072208.png)
+![Wireframe Aba harmonizações](images/imagem_2021-10-11_072222.png)
+
 
 > São protótipos usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
