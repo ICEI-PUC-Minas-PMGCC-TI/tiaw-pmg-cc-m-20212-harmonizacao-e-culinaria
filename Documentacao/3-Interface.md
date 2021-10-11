@@ -16,11 +16,6 @@
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
 > para alinhar os caminhos e as possíveis ações que o usuário pode
 > fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-
 
 ## Wireframes
 
@@ -43,4 +38,5 @@
 > páginas. Um wireframe web é uma ilustração semelhante do
 > layout de elementos fundamentais na interface.
 
+> - [Projeto Figma](https://www.figma.com/file/uAEthv151mhegzpjdWXzSw/Untitled?node-id=0%3A1)
 > - [Protótipo interativo](https://www.figma.com/proto/uAEthv151mhegzpjdWXzSw/Untitled?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A2)
