@@ -14,6 +14,6 @@
 
 As ferramentas empregadas no projeto são até o momento:
 
-> - ![Trello](https://trello.com/b/x69hZr3K/harmonização)
-> - ![Figma](https://www.figma.com/file/uAEthv151mhegzpjdWXzSw/Untitled?node-id=0%3A1)
-> - ![Miro](https://miro.com/app/board/o9J_ly2Tdpw=/)
+> - [Trello](https://trello.com/b/x69hZr3K/harmonização)
+> - [Figma](https://www.figma.com/file/uAEthv151mhegzpjdWXzSw/Untitled?node-id=0%3A1)
+> - [Miro](https://miro.com/app/board/o9J_ly2Tdpw=/)
