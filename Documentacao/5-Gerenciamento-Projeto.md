@@ -6,9 +6,9 @@
 ## Divisão de Papéis
 
 > Apresente a divisão de papéis entre os membros do grupo.
->Product Owner : Matheus Marinho Gonçalves Vieira
->Scrum Master : Felipe Erasmo Cabral Neto
->Equipe: Priscila Silva Soares, Gabriel Lisa Visconti Silva, Pedro Augusto Gomes Ferreira de Albuquerque, Lauro Mendes Cunha
+> - Product Owner : Matheus Marinho Gonçalves Vieira
+> - Scrum Master : Felipe Erasmo Cabral Neto
+> - Equipe: Priscila Silva Soares, Gabriel Lisa Visconti Silva, Pedro Augusto Gomes Ferreira de Albuquerque, Lauro Mendes Cunha
 
 ## Processo
 
