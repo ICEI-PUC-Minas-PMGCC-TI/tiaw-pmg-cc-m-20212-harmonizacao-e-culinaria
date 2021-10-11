@@ -6,11 +6,9 @@
 ## Divisão de Papéis
 
 > Apresente a divisão de papéis entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Product Owner : Matheus Marinho Gonçalves Vieira
+Scrum Master : Felipe Erasmo Cabral Neto
+Equipe: Priscila Silva Soares, Gabriel Lisa Visconti Silva, Pedro Augusto Gomes Ferreira de Albuquerque, Lauro Mendes Cunha
 
 ## Processo
 
