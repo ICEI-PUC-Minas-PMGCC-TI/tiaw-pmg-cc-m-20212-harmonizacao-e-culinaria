@@ -32,13 +32,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| ATRELAR BEBIDAS TEMPEROS E SABORES PARA HARMONIZAR MELHOR   | ALTA |
 |RF-005| PESQUISAR POR BEBIDAS | ALTA | 
 |RF-006| COMPARTILHAR RECEITAS E POSTS  | BAIXA |
+|RF-007| CLASSIFICAR HABILIDADE DO USUÁRIO  | BAIXA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| RESPONSIVIDADE | ALTA | 
+|RNF-002| MOSTRAR TENDÊNCIAS NO SITE | MÉDIA | 
+|RNF-002| FILTRAR RECEITAS E PESQUISAS | ALTA | 
+|RNF-002| CONTAS DE USUÁRIOS | MÉDIA | 
+|RNF-002| SEGURANÇA DE CONTAS DE USUÁRIOS | ALTA | 
+|RNF-002| ORGANIZAR POSTS POR USUÁRIO | BAIXA | 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
