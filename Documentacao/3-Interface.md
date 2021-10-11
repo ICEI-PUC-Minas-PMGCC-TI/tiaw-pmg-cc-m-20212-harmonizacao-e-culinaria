@@ -26,8 +26,8 @@
 
 ![Wireframe Pagina Incial](images/imagem_2021-10-11_072004.png)
 ![Wireframe Aba de comidas](images/imagem_2021-10-11_072030.png)
-![Wireframe Aba tipos de carnes](imagens/imagem_2021-10-11_072042.png)
-![Wireframe Aba carnes](imagens/imagem_2021-10-11_072053.png)
+![Wireframe Aba tipos de carnes](images/imagem_2021-10-11_072042.png)
+![Wireframe Aba carnes](images/imagem_2021-10-11_072053.png)
 ![Wireframe Pagina Incial](images/wireframe-example.png)
 ![Wireframe Pagina Incial](images/wireframe-example.png)
 
