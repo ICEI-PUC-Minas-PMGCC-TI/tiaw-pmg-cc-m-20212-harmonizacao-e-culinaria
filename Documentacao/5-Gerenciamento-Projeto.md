@@ -10,39 +10,10 @@
 > - Scrum Master : Felipe Erasmo Cabral Neto
 > - Equipe: Priscila Silva Soares, Gabriel Lisa Visconti Silva, Pedro Augusto Gomes Ferreira de Albuquerque, Lauro Mendes Cunha
 
-## Processo
-
-> Coloque  informações sobre detalhes da implementação do Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
-
 ## Ferramentas
 
-As ferramentas empregadas no projeto são:
+As ferramentas empregadas no projeto são até o momento:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de diagramação
-
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-> Liste quais ferramentas foram empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [![Slack](images/slack.jpg)](https://slack.com/)
-> - [![Trello](images/trello.png)](https://trello.com/)
-> 
-> - [![Microsof Project](images/project.png)](https://products.office.com/pt-br/project/project-and-portfolio-management-software)
-> - [![Redbooth](images/redbooth.png)](https://redbooth.com/)
+> - ![Trello](https://trello.com/b/x69hZr3K/harmonização)
+> - ![Figma](https://www.figma.com/file/uAEthv151mhegzpjdWXzSw/Untitled?node-id=0%3A1)
+> - ![Miro](https://miro.com/app/board/o9J_ly2Tdpw=/)
