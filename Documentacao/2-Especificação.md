@@ -4,8 +4,14 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Guilherme  | CONTRIBUIR PARA QUE MAIS PESSOAS COMEÇASSEM A HARMONIZAR   | COMPARTILHAR CONHECIMENTO |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| Guilherme | Contribuir para que mais pessoas começassem a harmonizar | Compartilhar conhecimento |
+| Gertrude | Compartilhar as receitas que deixam minha família feliz | Compartilhar conhecimento |
+| Daniele | Fazer receitas melhores, mas não sei por onde começar | Cozinhar melhor |
+| João | Aprender a cozinhar do zero | Cozinhar melhor |
+| Pedro | Aprender mais sobre cozinha | Cozinhar melhor |
+| Matheus | Aprender mais sobre como harmonizar comidas e bebidas | Aprender mais sobre harmonização |
+| Marcos | Aprender mais sobre temperos e sabores diferentes | Aprender mais sobre harmonização |
+| Luana | Aprender novas técnicas sem estar necessariamente incluídas em receitas | Aprender mais técnicas culinárias |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
